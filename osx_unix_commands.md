@@ -1,4 +1,4 @@
-###An A-Z Index of the Apple OS X command line
+### An A-Z Index of the Apple OS X command line
 
 To learn more about a command. From terminal simple type...
 
