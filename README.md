@@ -1,4 +1,4 @@
 # fuzzy-eureka
-This repository contains my cheatsheets and book collection,I would like to give credit to Sakib Mullanavar @FireMarshall
 
-The above desciption is enough.
+This repository contains my cheatsheets and book collection
+
